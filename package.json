@@ -1,0 +1,21 @@
+{
+  "name": "OneshotTheme",
+  "displayName": "OneshotTheme",
+  "description": "A vscode theme in Oneshot style",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oneshot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oneshot-color-theme.json"
+      }
+    ]
+  }
+}
