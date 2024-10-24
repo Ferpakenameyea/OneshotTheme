@@ -2,7 +2,7 @@
 	"name": "Oneshot",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#5c46a0",
 		"activityBarBadge.background": "#4a3c5a",
 		"sideBarTitle.foreground": "#5c46a0",
 		"sideBar.background": "#000000",

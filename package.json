@@ -1,5 +1,5 @@
 {
-  "name": "OneshotTheme",
+  "name": "oneshot-theme",
   "displayName": "OneshotTheme",
   "description": "A vscode theme in Oneshot style",
   "version": "0.0.1",
@@ -17,5 +17,6 @@
         "path": "./themes/Oneshot-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "git@github.com:Ferpakenameyea/OneshotTheme.git"
 }
