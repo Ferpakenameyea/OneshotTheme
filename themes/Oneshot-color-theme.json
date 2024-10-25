@@ -17,6 +17,14 @@
 		"editorBracketHighlight.foreground4": "#6b5e9e",
 		"editorBracketHighlight.foreground5": "#ac32bc",
 		"editorBracketHighlight.foreground6": "#d36be3",
+		"editorSuggestWidget.background": "#752453f8",
+		"editorSuggestWidget.foreground": "#e62d80",
+		"editorSuggestWidget.selectedBackground": "#8f2191",
+		"editorSuggestWidget.selectedForeground": "#ff3fbf",
+		"editorSuggestWidget.selectedIconForeground": "#ffeb0a",
+		"editorSuggestWidget.highlightForeground": "#ff00fb",
+		"editorSuggestWidget.focusHighlightForeground": "#ffffff",
+		"editorSuggestWidget.border": "#3b0065",
 		"sideBar.foreground": "#863d91",
 		"icon.foreground": "#863d91",
 		"editorLineNumber.activeForeground": "#ad60b4",
@@ -85,7 +93,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#8d5dae",
+				"foreground": "#876c99",
 			}
 		},
 		{
@@ -105,7 +113,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#795d6e"
+				"foreground": "#b1598e"
 			}
 		},
 		{
@@ -129,7 +137,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#904aac",
+				"foreground": "#bb78d5",
 			}
 		},
 		{
@@ -239,7 +247,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#bb5062"
+				"foreground": "#a178c5"
 			}
 		},
 		{
